@@ -1,5 +1,5 @@
 package com.currencyexchange.exchangeconversor.modelos;
 
-public record CurrencyData(double conversion_rate) {
+public record CurrencyDataAPI(double conversion_rate) {
 
 }
