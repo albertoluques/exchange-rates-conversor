@@ -7,7 +7,7 @@ This is a currency exchange conversor, it works under the [ExchangeRateAPI](http
 
 ## Functions
 - `Convert the following currencies: ARS, BOB, BRL, CLP, COP, USD, MXN`
-  https://github.com/albertoluques/exchange-rates-conversor/assets/157401388/cede858b-01f6-4156-bf70-753178068a41
+![Video demonstration](https://github.com/albertoluques/exchange-rates-conversor/assets/157401388/cede858b-01f6-4156-bf70-753178068a41)
 
 ## Technologies
 - Java 17
