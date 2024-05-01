@@ -30,7 +30,7 @@ public class ClientSolicitation{
 
 
         } catch(Exception e) {
-            throw new RuntimeException("No encontre el valor");
+            throw new RuntimeException("Value not found");
         }
     }
 }
