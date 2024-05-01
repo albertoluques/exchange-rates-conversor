@@ -8,7 +8,7 @@ public class ConversionAString {
     public void ConversionIntAString(int i) {
         switch (i) {
             case 1:
-            this.divisaBase = "ARG";
+            this.divisaBase = "ARS";
             break;
             case 2:
                 this.divisaBase = "BOB";
@@ -31,7 +31,7 @@ public class ConversionAString {
         }
         switch (i) {
             case 1:
-                this.divisaTarget = "ARG";
+                this.divisaTarget = "ARS";
                 break;
             case 2:
                 this.divisaTarget = "BOB";
